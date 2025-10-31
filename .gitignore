@@ -1,0 +1,31 @@
+# Weights & Biases
+wandb/
+
+# PDF files
+pdfs/
+*.pdf
+
+# Processed data
+processed_data/
+
+# Model checkpoints
+deepseek-coder-finetuned/
+models/
+
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS specific files
+.DS_Store
+Thumbs.db
